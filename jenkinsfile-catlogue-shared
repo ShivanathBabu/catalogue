@@ -5,3 +5,5 @@ def configMap = [
     COMPONENT : "catalogue"
 ]
 
+nodejsEKSpipeline(configMap)
+
