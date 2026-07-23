@@ -1,4 +1,4 @@
-@Library('nodejsEKS.pipeline.groovy') _ 
+@Library('jenkins_shared_library') _ 
 
 def configMap = [
     PROJECT : "roboshop",
