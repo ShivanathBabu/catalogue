@@ -1,0 +1,7 @@
+@Library('nodejsEKS.pipeline.groovy') _ 
+
+def configMap = [
+    PROJECT : "roboshop",
+    COMPONENT : "catalogue"
+]
+
